@@ -1,0 +1,158 @@
+{
+  "appTitle": "Noite de Natal",
+  "specialEdition": "EDIÇÃO ESPECIAL DE NATAL",
+  "heroTitle": "Que a Luz do Natal Ilumine Seu Caminho",
+  "heroBody": "Celebramos mais um ciclo de conquistas, aprendizados e encontros verdadeiros. Que esta noite renove a esperança, fortaleça os laços com quem você ama e traga paz, saúde e inspiração para todos os dias do novo ano.",
+  "pillars": {
+    "peaceTitle": "Paz e União",
+    "peaceDesc": "Momentos genuínos ao redor da mesa com família e amigos.",
+    "gratitudeTitle": "Gratidão",
+    "gratitudeDesc": "Reconhecimento por cada desafio superado ao longo do ano.",
+    "dreamsTitle": "Novos Sonhos",
+    "dreamsDesc": "Coragem e energia renovada para transformar projetos em realidade."
+  },
+  "cta": {
+    "igniteMagic": "Acender Magia (Música + Luzes)",
+    "magicActive": "Magia Acesa! Aproveite a Noite",
+    "santaList": "Lista do Papai Noel",
+    "magicMailbox": "Correio Mágico",
+    "replayIntro": "Rever Abertura"
+  },
+  "intro": {
+    "title": "A Magia do Natal Está no Ar",
+    "subtitle": "Prepare-se para entrar em uma noite encantada de luzes, música e desejos.",
+    "enter": "Entrar na Noite de Natal",
+    "skip": "Pular introdução"
+  },
+  "header": {
+    "music": "Música",
+    "partyLights": "Luzes: Festa",
+    "normalLights": "Luzes: Suaves",
+    "tribute": "Ouvir Homenagem",
+    "stopTribute": "Parar Homenagem",
+    "lightTheme": "Tema Claro",
+    "darkTheme": "Tema Noturno",
+    "settings": "Configurações",
+    "language": "Idioma"
+  },
+  "countdown": {
+    "christmasLabel": "Contagem para o Natal",
+    "days": "dias",
+    "hours": "horas",
+    "minutes": "min",
+    "seconds": "seg",
+    "merryChristmas": "Feliz Natal! Que a magia de hoje dure o ano inteiro!",
+    "sleighNext": "Próxima passagem do trenó em {{seconds}}s",
+    "sleighFlying": "O trenó do Papai Noel está cruzando o céu!"
+  },
+  "tree": {
+    "starAria": "Estrela guia no topo da árvore — clique para irradiar magia",
+    "starWish": "A estrela guia brilhou! Que seu caminho seja sempre iluminado.",
+    "giftAria": "Presente surpresa {{number}}",
+    "giftTitle": "Presente Aberto!",
+    "gifts": [
+      "Um abraço apertado vale mais do que qualquer embrulho.",
+      "Que 2027 traga saúde, risadas sinceras e sonhos realizados.",
+      "A verdadeira magia do Natal mora na gentileza compartilhada.",
+      "Você recebeu uma dose extra de alegria e esperança!"
+    ]
+  },
+  "snowman": {
+    "aria": "Boneco de neve interativo — toque ou clique para interagir",
+    "forming": "Formando boneco de neve...",
+    "click1": "Ho-ho! Que friozinho gostoso esta noite!",
+    "click2": "Ei, meu nariz de cenoura faz cócegas!",
+    "click3": "Ei! Eu avisei! Toma essa bola de neve!",
+    "recovering": "Ufa... agora estou calmo de novo!"
+  },
+  "audio": {
+    "playlistTitle": "Trilha Sonora Natalina",
+    "play": "Reproduzir",
+    "pause": "Pausar",
+    "prev": "Anterior",
+    "next": "Próxima",
+    "volume": "Volume",
+    "playing": "Tocando agora",
+    "paused": "Pausado",
+    "synthBadge": "Melodia Natalina Integrada",
+    "error": "Não foi possível iniciar o áudio automaticamente. Clique em Reproduzir.",
+    "tracks": {
+      "silentNight": "Noite Silenciosa (Arranjo Caixa de Música)",
+      "jingleBells": "Sinos de Belém Festivos",
+      "winterMagic": "Valsa das Estrelas de Inverno"
+    }
+  },
+  "tribute": {
+    "title": "Homenagem do Papai Noel",
+    "voiceNote": "Narração sincronizada com o texto da página. Caso seu navegador não possua voz grave instalada, usamos a melhor voz disponível em português.",
+    "pause": "Pausar",
+    "resume": "Retomar",
+    "stop": "Encerrar",
+    "sentences": [
+      "Que a Luz do Natal Ilumine Seu Caminho.",
+      "Celebramos mais um ciclo de conquistas, aprendizados e encontros verdadeiros.",
+      "Que esta noite renove a esperança, fortaleça os laços com quem você ama e traga paz, saúde e inspiração para todos os dias do novo ano."
+    ]
+  },
+  "lists": {
+    "title": "Lista do Papai Noel",
+    "subtitle": "Brincadeira interativa — os nomes ficam salvos apenas neste navegador e dispositivo.",
+    "niceTab": "Lista de Presentes",
+    "naughtyTab": "Lista de Carvão",
+    "placeholderNice": "Digite um nome para os presentes...",
+    "placeholderNaughty": "Digite um nome (em tom de brincadeira)...",
+    "add": "Adicionar",
+    "remove": "Remover {{name}}",
+    "drawBtn": "Sortear Presenteado",
+    "drawing": "Consultando o grande livro do Polo Norte...",
+    "drawAgain": "Sortear Novamente",
+    "emptyNice": "Adicione nomes acima para realizar o sorteio mágico de presentes.",
+    "emptyNaughty": "Nenhum nome na lista de carvão por enquanto! Todo mundo se comportou bem.",
+    "clearList": "Limpar lista",
+    "confirmClear": "Tem certeza que deseja apagar todos os nomes desta lista?",
+    "winnerTitle": "Presente Especial para {{name}}!",
+    "winnerMessages": [
+      "{{name}} espalhou alegria o ano inteiro e ganhou um baú de boas surpresas!",
+      "O Polo Norte confirmou: {{name}} merece os melhores momentos neste Natal!",
+      "Parabéns, {{name}}! Os duendes já estão embrulhando um presente cheio de realizações."
+    ],
+    "coalJokeTitle": "Alerta Divertido do Polo Norte para {{name}}!",
+    "coalJokeMessages": [
+      "Ho-ho-ho! {{name}} comeu biscoitos antes da ceia, mas ainda dá tempo de ganhar um abraço!",
+      "{{name}} ganhou um carvão de chocolate doce porque ninguém resiste ao espírito natalino!",
+      "Os duendes disseram que {{name}} aprontou umas boas, mas o Papai Noel perdoou com um sorriso!"
+    ]
+  },
+  "mailbox": {
+    "title": "Correio Mágico do Polo Norte",
+    "subtitle": "Seus desejos são privados e ficam guardados apenas neste navegador.",
+    "promptQuestion": "Se você pudesse fazer um pedido para esta noite de Natal, qual seria?",
+    "placeholder": "Escreva seu desejo com o coração...",
+    "sendBtn": "Enviar Carta ao Polo Norte",
+    "sending": "Dobrando carta e enviando pelas estrelas...",
+    "santaReplyLabel": "Resposta do Papai Noel",
+    "historyTitle": "Cartas Enviadas Neste Dispositivo",
+    "emptyHistory": "Nenhuma carta enviada ainda. Faça seu primeiro pedido acima!",
+    "deleteLetter": "Apagar carta",
+    "clearHistory": "Limpar histórico",
+    "confirmClearHistory": "Deseja apagar todas as cartas salvas neste dispositivo?",
+    "storageWarning": "Aviso: limite de armazenamento local atingido. Apague cartas antigas se necessário.",
+    "replies": [
+      "Nunca deixe de acreditar nos seus sonhos. As estrelas já estão conspirando a seu favor!",
+      "Às vezes, os melhores presentes não vêm embrulhados, mas chegam em forma de paz e bons encontros.",
+      "Que sua próxima jornada seja cheia de descobertas, saúde e pessoas que iluminam seus dias.",
+      "Seu pedido chegou quentinho aqui no Polo Norte! Continue espalhando bondade pelo caminho."
+    ]
+  },
+  "settings": {
+    "title": "Configurações e Acessibilidade",
+    "volume": "Volume Geral",
+    "sfx": "Efeitos sonoros nas interações",
+    "particles": "Partículas e brilhos ambientais",
+    "reducedMotion": "Reduzir movimento e animações",
+    "localPrivacy": "Privacidade: suas listas, cartas e preferências são armazenadas exclusivamente no LocalStorage deste navegador/dispositivo e nunca são enviadas para servidores externos."
+  },
+  "common": {
+    "close": "Fechar"
+  }
+}

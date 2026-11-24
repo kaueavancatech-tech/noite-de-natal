@@ -1,0 +1,158 @@
+{
+  "appTitle": "Christmas Night",
+  "specialEdition": "SPECIAL CHRISTMAS EDITION",
+  "heroTitle": "May the Light of Christmas Illuminate Your Path",
+  "heroBody": "We celebrate another cycle of achievements, lessons, and true connections. May tonight renew hope, strengthen bonds with those you love, and bring peace, health, and inspiration for every day of the new year.",
+  "pillars": {
+    "peaceTitle": "Peace & Unity",
+    "peaceDesc": "Genuine moments around the table with family and friends.",
+    "gratitudeTitle": "Gratitude",
+    "gratitudeDesc": "Appreciation for every challenge overcome throughout the year.",
+    "dreamsTitle": "New Dreams",
+    "dreamsDesc": "Courage and renewed energy to turn projects into reality."
+  },
+  "cta": {
+    "igniteMagic": "Ignite Magic (Music + Lights)",
+    "magicActive": "Magic Lit! Enjoy the Night",
+    "santaList": "Santa's List",
+    "magicMailbox": "Magic Mailbox",
+    "replayIntro": "Replay Intro"
+  },
+  "intro": {
+    "title": "The Magic of Christmas Is in the Air",
+    "subtitle": "Get ready to step into an enchanted night of lights, music, and wishes.",
+    "enter": "Enter Christmas Night",
+    "skip": "Skip intro"
+  },
+  "header": {
+    "music": "Music",
+    "partyLights": "Lights: Party",
+    "normalLights": "Lights: Soft",
+    "tribute": "Listen to Tribute",
+    "stopTribute": "Stop Tribute",
+    "lightTheme": "Light Theme",
+    "darkTheme": "Night Theme",
+    "settings": "Settings",
+    "language": "Language"
+  },
+  "countdown": {
+    "christmasLabel": "Countdown to Christmas",
+    "days": "days",
+    "hours": "hrs",
+    "minutes": "min",
+    "seconds": "sec",
+    "merryChristmas": "Merry Christmas! May today's magic last all year long!",
+    "sleighNext": "Next sleigh pass in {{seconds}}s",
+    "sleighFlying": "Santa's sleigh is flying across the sky!"
+  },
+  "tree": {
+    "starAria": "Guiding star atop the tree — click to radiate magic",
+    "starWish": "The guiding star shimmered! May your path always stay bright.",
+    "giftAria": "Surprise gift {{number}}",
+    "giftTitle": "Gift Opened!",
+    "gifts": [
+      "A warm hug is worth more than any wrapped box.",
+      "May 2027 bring health, genuine laughter, and fulfilled dreams.",
+      "The true magic of Christmas lives in shared kindness.",
+      "You just unlocked an extra dose of joy and hope!"
+    ]
+  },
+  "snowman": {
+    "aria": "Interactive snowman — tap or click to interact",
+    "forming": "Building snowman...",
+    "click1": "Ho-ho! What a lovely chilly night!",
+    "click2": "Hey, my carrot nose tickles!",
+    "click3": "Hey! I warned you! Catch this snowball!",
+    "recovering": "Phew... I'm calm again now!"
+  },
+  "audio": {
+    "playlistTitle": "Christmas Soundtrack",
+    "play": "Play",
+    "pause": "Pause",
+    "prev": "Previous",
+    "next": "Next",
+    "volume": "Volume",
+    "playing": "Now playing",
+    "paused": "Paused",
+    "synthBadge": "Built-in Music Box Melody",
+    "error": "Could not autoplay audio. Click Play to start.",
+    "tracks": {
+      "silentNight": "Silent Night (Music Box Arrangement)",
+      "jingleBells": "Festive Jingle Bells",
+      "winterMagic": "Waltz of the Winter Stars"
+    }
+  },
+  "tribute": {
+    "title": "Santa's Tribute",
+    "voiceNote": "Narration synchronized with the page message using your browser's best available English voice.",
+    "pause": "Pause",
+    "resume": "Resume",
+    "stop": "Stop",
+    "sentences": [
+      "May the Light of Christmas Illuminate Your Path.",
+      "We celebrate another cycle of achievements, lessons, and true connections.",
+      "May tonight renew hope, strengthen bonds with those you love, and bring peace, health, and inspiration for every day of the new year."
+    ]
+  },
+  "lists": {
+    "title": "Santa's List",
+    "subtitle": "Playful activity — names are stored locally only in this browser and device.",
+    "niceTab": "Gift List",
+    "naughtyTab": "Coal List",
+    "placeholderNice": "Enter a name for gifts...",
+    "placeholderNaughty": "Enter a name (playfully)...",
+    "add": "Add",
+    "remove": "Remove {{name}}",
+    "drawBtn": "Draw Gift Recipient",
+    "drawing": "Checking the Great North Pole Ledger...",
+    "drawAgain": "Draw Again",
+    "emptyNice": "Add names above to run the magical gift raffle.",
+    "emptyNaughty": "No names on the coal list yet! Everyone has been extra nice.",
+    "clearList": "Clear list",
+    "confirmClear": "Are you sure you want to clear all names from this list?",
+    "winnerTitle": "Special Gift for {{name}}!",
+    "winnerMessages": [
+      "{{name}} spread joy all year long and won a chest full of wonderful surprises!",
+      "The North Pole confirms: {{name}} deserves the brightest moments this Christmas!",
+      "Congratulations, {{name}}! The elves are already wrapping a gift full of new achievements."
+    ],
+    "coalJokeTitle": "Playful North Pole Alert for {{name}}!",
+    "coalJokeMessages": [
+      "Ho-ho-ho! {{name}} snuck cookies before dinner, but there's still plenty of time for a hug!",
+      "{{name}} received sweet chocolate coal because nobody can resist the holiday spirit!",
+      "The elves said {{name}} pulled a harmless prank, so Santa forgave them with a big smile!"
+    ]
+  },
+  "mailbox": {
+    "title": "North Pole Magic Mailbox",
+    "subtitle": "Your wishes are private and saved only inside this browser.",
+    "promptQuestion": "If you could make one wish for this Christmas night, what would it be?",
+    "placeholder": "Write your wish from the heart...",
+    "sendBtn": "Send Letter to the North Pole",
+    "sending": "Folding letter and sending it across the stars...",
+    "santaReplyLabel": "Reply from Santa Claus",
+    "historyTitle": "Letters Sent on This Device",
+    "emptyHistory": "No letters sent yet. Make your first wish above!",
+    "deleteLetter": "Delete letter",
+    "clearHistory": "Clear history",
+    "confirmClearHistory": "Delete all letters saved on this device?",
+    "storageWarning": "Notice: local storage limit reached. Delete older letters if needed.",
+    "replies": [
+      "Never stop believing in your dreams. The stars are already aligning in your favor!",
+      "Sometimes the greatest gifts do not come wrapped, arriving instead as peace and warm reunions.",
+      "May your upcoming journey be filled with discovery, health, and people who brighten your days.",
+      "Your wish arrived warm and safe at the North Pole! Keep spreading kindness along the way."
+    ]
+  },
+  "settings": {
+    "title": "Settings & Accessibility",
+    "volume": "Master Volume",
+    "sfx": "Interaction sound effects",
+    "particles": "Ambient particles & sparkles",
+    "reducedMotion": "Reduce motion and animations",
+    "localPrivacy": "Privacy: your lists, letters, and preferences are stored exclusively in this browser/device's LocalStorage and are never sent to external servers."
+  },
+  "common": {
+    "close": "Close"
+  }
+}

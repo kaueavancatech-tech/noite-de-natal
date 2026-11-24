@@ -1,0 +1,158 @@
+{
+  "appTitle": "Noche de Navidad",
+  "specialEdition": "EDICIÓN ESPECIAL DE NAVIDAD",
+  "heroTitle": "Que la Luz de la Navidad Ilumine Tu Camino",
+  "heroBody": "Celebramos un ciclo más de logros, aprendizajes y encuentros verdaderos. Que esta noche renueve la esperanza, fortalezca los lazos con quienes amas y traiga paz, salud e inspiración para cada día del nuevo año.",
+  "pillars": {
+    "peaceTitle": "Paz y Unión",
+    "peaceDesc": "Momentos genuinos alrededor de la mesa con familia y amigos.",
+    "gratitudeTitle": "Gratitud",
+    "gratitudeDesc": "Reconocimiento por cada desafío superado a lo largo del año.",
+    "dreamsTitle": "Nuevos Sueños",
+    "dreamsDesc": "Valentía y energía renovada para transformar proyectos en realidad."
+  },
+  "cta": {
+    "igniteMagic": "Encender Magia (Música + Luces)",
+    "magicActive": "¡Magia Encendida! Disfruta la Noche",
+    "santaList": "Lista de Papá Noel",
+    "magicMailbox": "Correo Mágico",
+    "replayIntro": "Ver Apertura"
+  },
+  "intro": {
+    "title": "La Magia de la Navidad Está en el Aire",
+    "subtitle": "Prepárate para entrar en una noche encantada de luces, música y deseos.",
+    "enter": "Entrar en la Noche de Navidad",
+    "skip": "Saltar introducción"
+  },
+  "header": {
+    "music": "Música",
+    "partyLights": "Luces: Fiesta",
+    "normalLights": "Luces: Suaves",
+    "tribute": "Escuchar Homenaje",
+    "stopTribute": "Detener Homenaje",
+    "lightTheme": "Tema Claro",
+    "darkTheme": "Tema Nocturno",
+    "settings": "Ajustes",
+    "language": "Idioma"
+  },
+  "countdown": {
+    "christmasLabel": "Cuenta regresiva para Navidad",
+    "days": "días",
+    "hours": "horas",
+    "minutes": "min",
+    "seconds": "seg",
+    "merryChristmas": "¡Feliz Navidad! ¡Que la magia de hoy dure todo el año!",
+    "sleighNext": "Próximo paso del trineo en {{seconds}}s",
+    "sleighFlying": "¡El trineo de Papá Noel cruza el cielo!"
+  },
+  "tree": {
+    "starAria": "Estrella guía en la cima del árbol — haz clic para irradiar magia",
+    "starWish": "¡La estrella guía brilló! Que tu camino esté siempre iluminado.",
+    "giftAria": "Regalo sorpresa {{number}}",
+    "giftTitle": "¡Regalo Abierto!",
+    "gifts": [
+      "Un abrazo sincero vale más que cualquier envoltorio.",
+      "Que 2027 traiga salud, risas verdaderas y sueños cumplidos.",
+      "La verdadera magia de la Navidad vive en la amabilidad compartida.",
+      "¡Has recibido una dosis extra de alegría y esperanza!"
+    ]
+  },
+  "snowman": {
+    "aria": "Muñeco de nieve interactivo — toca o haz clic para interactuar",
+    "forming": "Formando muñeco de nieve...",
+    "click1": "¡Jo-jo! ¡Qué fresquito tan agradable esta noche!",
+    "click2": "¡Ey, mi nariz de zanahoria hace cosquillas!",
+    "click3": "¡Ey! ¡Te lo advertí! ¡Toma esta bola de nieve!",
+    "recovering": "Uff... ¡ya estoy tranquilo otra vez!"
+  },
+  "audio": {
+    "playlistTitle": "Banda Sonora Navideña",
+    "play": "Reproducir",
+    "pause": "Pausar",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "volume": "Volumen",
+    "playing": "Sonando ahora",
+    "paused": "Pausado",
+    "synthBadge": "Melodía Navideña Integrada",
+    "error": "No se pudo iniciar el audio automáticamente. Pulsa Reproducir.",
+    "tracks": {
+      "silentNight": "Noche de Paz (Caja de Música)",
+      "jingleBells": "Campanas de Belén Festivas",
+      "winterMagic": "Vals de las Estrellas de Invierno"
+    }
+  },
+  "tribute": {
+    "title": "Homenaje de Papá Noel",
+    "voiceNote": "Narración sincronizada con el texto de la página usando la voz disponible en español en tu navegador.",
+    "pause": "Pausar",
+    "resume": "Reanudar",
+    "stop": "Detener",
+    "sentences": [
+      "Que la Luz de la Navidad Ilumine Tu Camino.",
+      "Celebramos un ciclo más de logros, aprendizajes y encuentros verdaderos.",
+      "Que esta noche renueve la esperanza, fortalezca los lazos con quienes amas y traiga paz, salud e inspiración para cada día del nuevo año."
+    ]
+  },
+  "lists": {
+    "title": "Lista de Papá Noel",
+    "subtitle": "Juego interactivo — los nombres se guardan solo en este navegador y dispositivo.",
+    "niceTab": "Lista de Regalos",
+    "naughtyTab": "Lista de Carbón",
+    "placeholderNice": "Escribe un nombre para los regalos...",
+    "placeholderNaughty": "Escribe un nombre (en tono de broma)...",
+    "add": "Añadir",
+    "remove": "Quitar {{name}}",
+    "drawBtn": "Sortear Afortunado",
+    "drawing": "Consultando el gran libro del Polo Norte...",
+    "drawAgain": "Sortear de Nuevo",
+    "emptyNice": "Añade nombres arriba para hacer el sorteo mágico de regalos.",
+    "emptyNaughty": "¡Ningún nombre en la lista de carbón! Todos se portaron muy bien.",
+    "clearList": "Limpiar lista",
+    "confirmClear": "¿Seguro que deseas borrar todos los nombres de esta lista?",
+    "winnerTitle": "¡Regalo Especial para {{name}}!",
+    "winnerMessages": [
+      "¡{{name}} repartió alegría todo el año y ganó un cofre de buenas sorpresas!",
+      "El Polo Norte lo confirma: ¡{{name}} merece los mejores momentos esta Navidad!",
+      "¡Felicidades, {{name}}! Los duendes ya están envolviendo un regalo lleno de logros."
+    ],
+    "coalJokeTitle": "¡Alerta Divertida del Polo Norte para {{name}}!",
+    "coalJokeMessages": [
+      "¡Jo-jo-jo! {{name}} comió galletas antes de la cena, ¡pero aún está a tiempo de un abrazo!",
+      "¡{{name}} ganó un carbón de chocolate dulce porque nadie se resiste al espíritu navideño!",
+      "Los duendes dicen que {{name}} hizo travesuras, ¡pero Papá Noel lo perdonó con una sonrisa!"
+    ]
+  },
+  "mailbox": {
+    "title": "Correo Mágico del Polo Norte",
+    "subtitle": "Tus deseos son privados y se guardan solo en este navegador.",
+    "promptQuestion": "Si pudieras pedir un deseo para esta noche de Navidad, ¿cuál sería?",
+    "placeholder": "Escribe tu deseo con el corazón...",
+    "sendBtn": "Enviar Carta al Polo Norte",
+    "sending": "Doblando carta y enviándola a las estrellas...",
+    "santaReplyLabel": "Respuesta de Papá Noel",
+    "historyTitle": "Cartas Enviadas en Este Dispositivo",
+    "emptyHistory": "Aún no hay cartas enviadas. ¡Haz tu primer deseo arriba!",
+    "deleteLetter": "Borrar carta",
+    "clearHistory": "Limpiar historial",
+    "confirmClearHistory": "¿Deseas borrar todas las cartas guardadas en este dispositivo?",
+    "storageWarning": "Aviso: límite de almacenamiento local alcanzado. Borra cartas antiguas si es necesario.",
+    "replies": [
+      "Nunca dejes de creer en tus sueños. ¡Las estrellas ya conspiran a tu favor!",
+      "A veces los mejores regalos no vienen envueltos, sino en forma de paz y buenos encuentros.",
+      "Que tu próximo viaje esté lleno de descubrimientos, salud y personas que iluminen tus días.",
+      "¡Tu deseo llegó calentito al Polo Norte! Sigue repartiendo bondad por el camino."
+    ]
+  },
+  "settings": {
+    "title": "Ajustes y Accesibilidad",
+    "volume": "Volumen General",
+    "sfx": "Efectos de sonido en interacciones",
+    "particles": "Partículas y brillos ambientales",
+    "reducedMotion": "Reducir movimiento y animaciones",
+    "localPrivacy": "Privacidad: tus listas, cartas y preferencias se guardan exclusivamente en el LocalStorage de este navegador/dispositivo y nunca se envían a servidores externos."
+  },
+  "common": {
+    "close": "Cerrar"
+  }
+}
